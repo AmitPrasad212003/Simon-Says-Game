@@ -16,4 +16,5 @@ Inspired by the classic *Simon Says*, this game challenges your memory skills as
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash
+   git clone https://github.com/AmitPrasad212003/Simon-Says-Game.git
    ```
